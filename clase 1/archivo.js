@@ -1,1 +1,1 @@
-document.write("Mi primera página web")
+document.write("ESTOY DESDE ARCHIVO JS")
